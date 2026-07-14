@@ -71,7 +71,4 @@ python invoice_flagging/train.py
 - `inventory.db` contains the source SQLite data used by the project.
 - Model files in `models/` are used by the Streamlit app and inference scripts.
 
-## Author
-
-Ayushi Mishra
 
